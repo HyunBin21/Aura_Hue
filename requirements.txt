@@ -1,0 +1,11 @@
+Flask
+gunicorn
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+scipy
+plotly
+scikit-image
+colormath
